@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "isbn": 123456,
+        "judul": "percobaan1",
+        "sinopsis": "Ini adalah contoh sinopsis pertama",
+        "penulis": "anon",
+        "genre": "fiksi"
+    }, {
+        "id": 2,
+        "isbn": 123423,
+        "judul": "testing",
+        "sinopsis": "Ini adalah contoh sinopsis kedua",
+        "penulis": "nimo",
+        "genre": "horor"
+    }, {
+        "id": 3,
+        "isbn": 1323423,
+        "judul": "ketiga",
+        "sinopsis": "Ini adalah contoh sinopsis ketiga",
+        "penulis": "nona",
+        "genre": "romance"
+    }
+]
